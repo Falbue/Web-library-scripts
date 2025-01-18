@@ -1,1 +1,1 @@
-# Web-library-scripts
+# Web library scripts
